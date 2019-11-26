@@ -1,1 +1,2 @@
 del /s *.dso
+# test
